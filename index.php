@@ -18,6 +18,28 @@
 
         </div>
     </header>
+
+    <main>
+        <div class="main">
+           <p> 
+                <?php
+                    echo 'Hello world!';
+                ?>
+            </p>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer">
+            
+            <p>
+                <?php
+                    echo 'Студент группы 221-322 Леушин Александр Александрович' 
+                ?>
+            </p>
+
+        </div>
+    </footer>
 </body>
 
 </html>
